@@ -1,9 +1,195 @@
 fileFormatVersion: 2
 guid: 8427507cff9bb9341a0214be5201cc1c
-timeCreated: 1499734002
+timeCreated: 1499734292
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Samus Sprites_0
+    21300002: Samus Sprites_1
+    21300004: Samus Sprites_2
+    21300006: Samus Sprites_3
+    21300008: Samus Sprites_4
+    21300010: Samus Sprites_5
+    21300012: Samus Sprites_6
+    21300014: Samus Sprites_7
+    21300016: Samus Sprites_8
+    21300018: Samus Sprites_9
+    21300020: Samus Sprites_10
+    21300022: Samus Sprites_11
+    21300024: Samus Sprites_12
+    21300026: Samus Sprites_13
+    21300028: Samus Sprites_14
+    21300030: Samus Sprites_15
+    21300032: Samus Sprites_16
+    21300034: Samus Sprites_17
+    21300036: Samus Sprites_18
+    21300038: Samus Sprites_19
+    21300040: Samus Sprites_20
+    21300042: Samus Sprites_21
+    21300044: Samus Sprites_22
+    21300046: Samus Sprites_23
+    21300048: Samus Sprites_24
+    21300050: Samus Sprites_25
+    21300052: Samus Sprites_26
+    21300054: Samus Sprites_27
+    21300056: Samus Sprites_28
+    21300058: Samus Sprites_29
+    21300060: Samus Sprites_30
+    21300062: Samus Sprites_31
+    21300064: Samus Sprites_32
+    21300066: Samus Sprites_33
+    21300068: Samus Sprites_34
+    21300070: Samus Sprites_35
+    21300072: Samus Sprites_36
+    21300074: Samus Sprites_37
+    21300076: Samus Sprites_38
+    21300078: Samus Sprites_39
+    21300080: Samus Sprites_40
+    21300082: Samus Sprites_41
+    21300084: Samus Sprites_42
+    21300086: Samus Sprites_43
+    21300088: Samus Sprites_44
+    21300090: Samus Sprites_45
+    21300092: Samus Sprites_46
+    21300094: Samus Sprites_47
+    21300096: Samus Sprites_48
+    21300098: Samus Sprites_49
+    21300100: Samus Sprites_50
+    21300102: Samus Sprites_51
+    21300104: Samus Sprites_52
+    21300106: Samus Sprites_53
+    21300108: Samus Sprites_54
+    21300110: Samus Sprites_55
+    21300112: Samus Sprites_56
+    21300114: Samus Sprites_57
+    21300116: Samus Sprites_58
+    21300118: Samus Sprites_59
+    21300120: Samus Sprites_60
+    21300122: Samus Sprites_61
+    21300124: Samus Sprites_62
+    21300126: Samus Sprites_63
+    21300128: Samus Sprites_64
+    21300130: Samus Sprites_65
+    21300132: Samus Sprites_66
+    21300134: Samus Sprites_67
+    21300136: Samus Sprites_68
+    21300138: Samus Sprites_69
+    21300140: Samus Sprites_70
+    21300142: Samus Sprites_71
+    21300144: Samus Sprites_72
+    21300146: Samus Sprites_73
+    21300148: Samus Sprites_74
+    21300150: Samus Sprites_75
+    21300152: Samus Sprites_76
+    21300154: Samus Sprites_77
+    21300156: Samus Sprites_78
+    21300158: Samus Sprites_79
+    21300160: Samus Sprites_80
+    21300162: Samus Sprites_81
+    21300164: Samus Sprites_82
+    21300166: Samus Sprites_83
+    21300168: Samus Sprites_84
+    21300170: Samus Sprites_85
+    21300172: Samus Sprites_86
+    21300174: Samus Sprites_87
+    21300176: Samus Sprites_88
+    21300178: Samus Sprites_89
+    21300180: Samus Sprites_90
+    21300182: Samus Sprites_91
+    21300184: Samus Sprites_92
+    21300186: Samus Sprites_93
+    21300188: Samus Sprites_94
+    21300190: Samus Sprites_95
+    21300192: Samus Sprites_96
+    21300194: Samus Sprites_97
+    21300196: Samus Sprites_98
+    21300198: Samus Sprites_99
+    21300200: Samus Sprites_100
+    21300202: Samus Sprites_101
+    21300204: Samus Sprites_102
+    21300206: Samus Sprites_103
+    21300208: Samus Sprites_104
+    21300210: Samus Sprites_105
+    21300212: Samus Sprites_106
+    21300214: Samus Sprites_107
+    21300216: Samus Sprites_108
+    21300218: Samus Sprites_109
+    21300220: Samus Sprites_110
+    21300222: Samus Sprites_111
+    21300224: Samus Sprites_112
+    21300226: Samus Sprites_113
+    21300228: Samus Sprites_114
+    21300230: Samus Sprites_115
+    21300232: Samus Sprites_116
+    21300234: Samus Sprites_117
+    21300236: Samus Sprites_118
+    21300238: Samus Sprites_119
+    21300240: Samus Sprites_120
+    21300242: Samus Sprites_121
+    21300244: Samus Sprites_122
+    21300246: Samus Sprites_123
+    21300248: Samus Sprites_124
+    21300250: Samus Sprites_125
+    21300252: Samus Sprites_126
+    21300254: Samus Sprites_127
+    21300256: Samus Sprites_128
+    21300258: Samus Sprites_129
+    21300260: Samus Sprites_130
+    21300262: Samus Sprites_131
+    21300264: Samus Sprites_132
+    21300266: Samus Sprites_133
+    21300268: Samus Sprites_134
+    21300270: Samus Sprites_135
+    21300272: Samus Sprites_136
+    21300274: Samus Sprites_137
+    21300276: Samus Sprites_138
+    21300278: Samus Sprites_139
+    21300280: Samus Sprites_140
+    21300282: Samus Sprites_141
+    21300284: Samus Sprites_142
+    21300286: Samus Sprites_143
+    21300288: Samus Sprites_144
+    21300290: Samus Sprites_145
+    21300292: Samus Sprites_146
+    21300294: Samus Sprites_147
+    21300296: Samus Sprites_148
+    21300298: Samus Sprites_149
+    21300300: Samus Sprites_150
+    21300302: Samus Sprites_151
+    21300304: Samus Sprites_152
+    21300306: Samus Sprites_153
+    21300308: Samus Sprites_154
+    21300310: Samus Sprites_155
+    21300312: Samus Sprites_156
+    21300314: Samus Sprites_157
+    21300316: Samus Sprites_158
+    21300318: Samus Sprites_159
+    21300320: Samus Sprites_160
+    21300322: Samus Sprites_161
+    21300324: Samus Sprites_162
+    21300326: Samus Sprites_163
+    21300328: Samus Sprites_164
+    21300330: Samus Sprites_165
+    21300332: Samus Sprites_166
+    21300334: Samus Sprites_167
+    21300336: Samus Sprites_168
+    21300338: Samus Sprites_169
+    21300340: Samus Sprites_170
+    21300342: Samus Sprites_171
+    21300344: Samus Sprites_172
+    21300346: Samus Sprites_173
+    21300348: Samus Sprites_174
+    21300350: Samus Sprites_175
+    21300352: Samus Sprites_176
+    21300354: Samus Sprites_177
+    21300356: Samus Sprites_178
+    21300358: Samus Sprites_179
+    21300360: Samus Sprites_180
+    21300362: Samus Sprites_181
+    21300364: Samus Sprites_182
+    21300366: Samus Sprites_183
+    21300368: Samus Sprites_184
+    21300370: Samus Sprites_185
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -27,14 +213,14 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -53,14 +239,2440 @@ TextureImporter:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Samus Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1235
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1235
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1184
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1184
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1131
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1138
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1138
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1132
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1086
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1085
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1077
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1081
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1081
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1077
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1085
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1086
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1039
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1040
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 988
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 989
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 937
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 937
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 937
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 937
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 887
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 887
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 887
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 887
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 887
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 887
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 887
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 887
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 837
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 837
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 837
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 837
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 837
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 837
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 837
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 837
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 787
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 787
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 787
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 787
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 740
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 736
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 737
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 738
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 738
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 737
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 736
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 740
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 686
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 688
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 690
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 689
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 688
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 689
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 690
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 686
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 641
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 637
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 637
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 641
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 586
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 587
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 587
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 587
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 587
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 587
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 613
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 586
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 537
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 537
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 537
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 537
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 537
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 537
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 537
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 486
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 487
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 487
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 487
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 437
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 437
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 437
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 437
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 437
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 437
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 437
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 387
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 387
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 387
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 387
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 337
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 337
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 337
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 337
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 284
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 284
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 284
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 284
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 284
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 284
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 234
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 234
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 234
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 234
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 234
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 234
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 184
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 184
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 184
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 146
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 150
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 150
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 143
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 94
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 96
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 94
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samus Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
