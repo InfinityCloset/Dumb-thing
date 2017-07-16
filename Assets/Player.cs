@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour {
+public class Player : MonoBehaviour
+{
 
     public float moveSpeed;
+
+    public Collider2D jumpSensor;
 
     public float jumpStrength;
 
@@ -12,20 +15,25 @@ public class Player : MonoBehaviour {
 
 
     // Use this for initialization
-    void Start () {
+    void Start()
+    {
         rb = GetComponent<Rigidbody2D>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        //left & Right movement
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        //Left & Right Movement
         rb.velocity = new Vector2(Input.GetAxis("Horizontal") * moveSpeed, rb.velocity.y);
 
-        //jumping
-        if (Input.GetAxis("Vertical") > .5f)
+        //Jumping
+        if ((Input.GetAxis("Vertical") > .1f))
         {
-            Vector2 jumpVector = new Vector2(0, jumpStrength);
-            rb.AddForce(jumpVector);
+            if ((jumpSensor.IsTouchingLayers(LayerMask.GetMask("Ground"))))
+            {
+                Vector2 jumpVector = new Vector2(0, jumpStrength);
+                rb.AddForce(jumpVector);
+            }
         }
-	}
+    }
 }
